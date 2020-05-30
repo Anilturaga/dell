@@ -1,0 +1,12 @@
+ID,LaptopName,ScreenSize,RAM,Cost,Color,GraphicCard,Gcompany,Memory,Processor,Rating
+1,Dell Inspiron 3480,15.6,8,50225,Black,8GB,NVDIA GTX 1660,1TB,Intel Core i5,3.3
+2,Dell Alienware 17 Area 51,17.3,64,520000,Stealth Black,8GB,NVDIA RTX 2080,1TB,Intel Core i9,5
+3,DELL Gaming-G3 3579,15.6,8,79745,Shadow Black,4GB,NVDIA RTX 2080,512GB,Intel Core i5,4.2
+4,Dell G Series G3 3579,15.6,16,98141,Black,4GB,NVDIA GTX 1050,1TB,Intel Core i7,3.7
+5,Dell Inspiron Core i5 8th Gen 8250U 2018,15.6,4,73373,Black,3GB,NVDIA GTX 1060,2TB,Intel Core i5,3.5
+6,Dell Inspiron 5370,17.3,8,78000,Shadow Black,6GB,Radeon RX 560X,1TB,Intel Core i5,4
+7,DELL Inspiron 15 7577,15.6,16,91990,Obsidian Black,4GB,NVDIA GTX 1050,1TB,Intel Core i7,4.4
+8,Dell Inspiron - 5567,15.6,4,48490,Stealth Black,8GB,Radeon RX 560X,2TB,Intel Core i5,3.8
+9,Dell G Series G7 7588,15.6,16,121990,Scar Gunmetal,6GB,NVDIA GTX 1060,1TB,Intel Core i7,3.9
+10,Dell Alienware m15,15.6,8,190445,Peacock Blue,6GB,NVDIA GTX 1650,512GB,Intel Core i7,4.2
+11,Dell Inspiron 7373,17.3,6,104990,Black,4GB,NVDIA RTX 2060,512GB,Intel Core i7,3.3
